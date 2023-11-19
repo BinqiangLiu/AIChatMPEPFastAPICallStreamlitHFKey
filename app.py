@@ -1,51 +1,11 @@
-Hugging Face's logo
-Hugging Face
-Search models, datasets, users...
-Models
-Datasets
-Spaces
-Docs
-Solutions
-Pricing
-
-
-
-Spaces:
-
-binqiangliu
-/
-AIChatMPEP-FastAPI_Call_Streamlit_HF-Test
-
-private
-
-Logs
-App
-Files
-Community
-Settings
-AIChatMPEP-FastAPI_Call_Streamlit_HF-Test
-/
-app.py
-binqiangliu's picture
-binqiangliu
-Update app.py
-466688c
-1 day ago
-raw
-history
-blame
-edit
-delete
-No virus
-8.3 kB
 import requests
 import streamlit as st
 import timeit
 import datetime
 
-import os
-from dotenv import load_dotenv
-load_dotenv()
+#import os
+#from dotenv import load_dotenv
+#load_dotenv()
 
 #HUGGINGFACEHUB_API_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 #hf_token = os.getenv("HUGGINGFACEHUB_API_TOKEN")
